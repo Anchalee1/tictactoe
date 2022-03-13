@@ -1,4 +1,4 @@
-var prompt = require("prompt-sync")({sigint:true}); //({sigint:true}); --> to end by A^C
+var prompt = require("prompt-sync")({sigint:true}); //({sigint:true}); --> to end by ctrl+C
 
 function playerwin(x) {
 
